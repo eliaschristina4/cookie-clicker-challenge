@@ -1,0 +1,60 @@
+body {
+    text-align: center;
+    background-color: #FDEEDC;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+    padding: 15px 30px;
+    border-bottom: 5px solid #F1A661;
+}
+
+button {
+    background-color: #F1A661 ;
+    border: 3px solid white;
+    padding: 0 40px;
+    border-radius: 35px; 
+}
+
+button a {
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 0;
+}
+
+h1 {
+    color: #E38B29;
+}
+
+#cookie-total {
+    font-size: 3em;
+    margin-bottom: none;
+    color: #FFD8A9;
+}
+
+#cookies {
+    margin-top: none;
+}
+
+img {
+    width: 25%;
+    object-fit: fill;
+}
+
+
+
+
+/* colors to use:
+#FDEEDC
+#FFD8A9
+#F1A661
+#E38B29 
+*/
